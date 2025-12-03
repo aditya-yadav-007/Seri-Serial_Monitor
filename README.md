@@ -62,6 +62,8 @@ To make a `.exe`:
 pip install pyinstaller
 pyinstaller --onefile --icon=serial_terminal_icon.ico serial_terminal.py
 ```
+![Alt Text](./Sample/Ter.png)
+
 
 ---
 
