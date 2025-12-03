@@ -4,7 +4,7 @@ A command-line based serial terminal written in Python. This tool allows you to 
 
 ---
 
-## ⚙️ Technology
+## 📐 Technology
 
 - Python
 - Python Package = Rich
