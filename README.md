@@ -4,6 +4,13 @@ A command-line based serial terminal written in Python. This tool allows you to 
 
 ---
 
+## ⚙️ Technology
+
+- Python
+- Python Package = Rich
+
+---
+
 ## ⚙️ Features
 
 - Cross-platform Python serial terminal
